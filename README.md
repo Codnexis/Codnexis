@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm currently turning ideas into real-world web projects. <br><br><br><br>🤝 I'm looking to collaborate on Web Development, Open Source and Startup Projects.<br><br><br><br>🛠️ I'm looking for help with Scaling Products, UI/UX Design and AI Integrations.<br><br><br><br>🌱 I'm currently learning Next.js, AI Tools, Backend Development and Cloud Technologies.<br><br><br><br>💬 Ask me about HTML, CSS, JavaScript, Web Development and Startup Building.<br><br><br><br>⚡ Fun fact: I love turning ideas into real products and launching them on the internet.
+💻 I'm currently turning ideas into real-world web projects.<br><br>🤝 I'm looking to collaborate on Web Development, Open Source and Startup Projects.<br><br>🛠️ I'm looking for help with Scaling Products, UI/UX Design and AI Integrations.<br><br>🌱 I'm currently learning Next.js, AI Tools, Backend Development and Cloud Technologies.<br><br>💬 Ask me about HTML, CSS, JavaScript, Web Development and Startup Building.<br><br>⚡ Fun fact: I love turning ideas into real products and launching them on the internet.
 
 
 ## 🌐 Socials:
